@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Anthony Viola\source\repos\CSC326-GroupProject\CSC326-GroupProject\Source.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Anthony Viola\source\repos\CSC326-GroupProject\CSC326-GroupProject\quicksorth.h(74): warning C4715: 'partition': not all control paths return a value
+C:\Users\Anthony Viola\source\repos\CSC326-GroupProject\CSC326-GroupProject\quicksorth.h(183): warning C4715: 'partitionsteps': not all control paths return a value
+  CSC326-GroupProject.vcxproj -> C:\Users\Anthony Viola\source\repos\CSC326-GroupProject\Debug\CSC326-GroupProject.exe
